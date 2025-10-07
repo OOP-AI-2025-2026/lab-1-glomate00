@@ -21,6 +21,7 @@ public class Main {
             return false;
         }
     }
+    
 
     /**
      * Given 2 int values, return true if either of them is in the range 10..20 inclusive.
